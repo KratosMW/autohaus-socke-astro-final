@@ -2,8 +2,8 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: '{{ORIGIN}}',
+  site: 'https://autohaus-socke.de',
   output: 'static',
-  trailingSlash: '{{TRAILING}}',
+  trailingSlash: 'never',
   build: { format: '{{FORMAT}}' },
 });
