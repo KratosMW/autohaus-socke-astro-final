@@ -27,5 +27,7 @@
     "review:check": "node scripts/review/check.mjs --review review",
     "review:serve": "node scripts/review-serve.mjs"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "astro": "^7.4.5"
+  }
 }
