@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "site": "https://autohaus-socke.de",
+  "repo": "KratosMW/autohaus-socke-astro",
+  "hosting": "local",
+  "startedAt": "2026-11-03T13:08:42.729Z",
+  "phase": "postprocess",
+  "phases": {
+    "convert-site": {
+      "startedAt": "2026-11-03T13:09:13.250Z",
+      "finishedAt": "2026-11-03T13:09:18.837Z",
+      "result": null
+    },
+    "capture": {
+      "startedAt": "2026-11-03T13:09:18.837Z",
+      "finishedAt": "2026-11-03T13:09:26.011Z",
+      "result": null
+    },
+    "plan": {
+      "startedAt": "2026-11-03T13:09:26.011Z",
+      "finishedAt": "2026-11-03T13:09:27.658Z",
+      "result": null
+    },
+    "scaffold": {
+      "startedAt": "2026-11-03T13:09:27.658Z",
+      "finishedAt": "2026-11-03T13:09:29.700Z",
+      "result": null
+    },
+    "baseline": {
+      "startedAt": "2026-11-03T13:09:29.700Z",
+      "finishedAt": "2026-11-03T13:09:32.453Z",
+      "result": null
+    },
+    "build": {
+      "startedAt": "2026-11-03T13:09:32.453Z",
+      "finishedAt": "2026-11-03T13:09:34.761Z",
+      "result": null
+    },
+    "gates": {
+      "startedAt": "2026-11-03T13:09:34.761Z",
+      "finishedAt": "2026-11-03T13:09:47.947Z",
+      "result": null
+    },
+    "visual": {
+      "startedAt": "2026-11-03T13:09:47.947Z",
+      "finishedAt": "2026-11-03T13:10:07.817Z",
+      "result": null
+    },
+    "postprocess": {
+      "startedAt": "2026-11-03T13:10:07.817Z",
+      "finishedAt": null,
+      "result": null
+    }
+  },
+  "decisions": [],
+  "counts": {},
+  "needsYou": []
+}
